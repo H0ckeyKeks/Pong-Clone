@@ -62,8 +62,7 @@ This project was developed as part of **Section 26** from the *"Complete C# Mast
 ---
 
 ## 🎮 Video presentation of the project 
-
-[![Video anschauen](https://youtu.be/nODtmkNsmVU?si=pPsiuoc1CEIxTQJn)
+[![Video anschauen](https://img.youtube.com/vi/nODtmkNsmVU/0.jpg)](https://youtu.be/nODtmkNsmVU?si=pPsiuoc1CEIxTQJn)
 
 ---
 
